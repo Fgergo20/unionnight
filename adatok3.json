@@ -1,2 +1,3 @@
-ACTIVE 2021.01.15 
-ACTIVE ALWAYS
+{
+"tournamentsdate":[ "2021.01.15", "ALWAYS", "NOT ALLOW" ]
+}
