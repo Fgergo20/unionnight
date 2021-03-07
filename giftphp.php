@@ -1,5 +1,5 @@
 <?php
 
-$_POST['score']
+$_POST["score"]
 
 ?>
