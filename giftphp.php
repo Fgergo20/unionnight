@@ -1,1 +1,5 @@
-$data = $_POST["str"];
+<?php
+
+$_POST['score']
+
+?>
