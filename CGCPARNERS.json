@@ -3,5 +3,6 @@
 "partnernames":[ "MC NIGHT CHANNEL", "B", "C" ],
 "partnerdatas":[ "https://raw.githubusercontent.com/Fgergo20/unionnight/main/fortnitecustom.json", 
                 "Burl", 
-                "Curl" ]
+                "Curl" ],
+ "partnercolor":[ "FF007F", "0080FF", "0080FF" ]
 }
