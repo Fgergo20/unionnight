@@ -1,5 +1,7 @@
 {
 "partnercount":30,
 "partnernames":[ "A", "B", "C" ],
-"partnerdatas":[ "Aurl", "Burl", "Curl" ]
+"partnerdatas":[ "https://raw.githubusercontent.com/Fgergo20/unionnight/main/fortnitecustom.json", 
+                "Burl", 
+                "Curl" ]
 }
