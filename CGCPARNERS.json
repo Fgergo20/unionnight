@@ -4,5 +4,5 @@
 "partnerdatas":[ "https://raw.githubusercontent.com/Fgergo20/unionnight/main/fortnitecustom.json", 
                 "Burl", 
                 "Curl" ],
- "partnercolor":[ 50, 150, 50 ]
+ "partnercolor":[ "50", "150", "50" ]
 }
