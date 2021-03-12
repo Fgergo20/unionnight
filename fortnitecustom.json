@@ -2,7 +2,7 @@
   
  "code": "no code", 
  "time": 2, 
- "active": 1,
+ "active": "true",
  "gamename": "no game",
  "matchname": "no match",
  "mode": "no mode"
