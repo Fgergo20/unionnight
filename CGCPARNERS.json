@@ -1,8 +1,13 @@
 {
 "partnercount":30,
-"partnernames":[ "MC NIGHT CHANNEL", "NebroYT", "C" ],
+"partnernames":[ 
+                "MC NIGHT CHANNEL", 
+                "NebroYT", 
+                "C" ],
 "partnerdatas":[ "https://raw.githubusercontent.com/Fgergo20/unionnight/main/fortnitecustom.json", 
                 "Burl", 
                 "Curl" ],
- "partnercolor":[ "140", "80", "140" ]
+ "partnercolor":[ "140", 
+                  "80", 
+                  "140" ]
 }
