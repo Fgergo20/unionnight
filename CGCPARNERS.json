@@ -5,14 +5,50 @@
                 "C",
                 "D",
                 "E",
+                "F",
+                
+                "C",
+                "D",
+                "E",
+                "F",
+                
+                "C",
+                "D",
+                "E",
+                "F",
+                
+                "C",
+                "D",
+                "E",
                 "F"
                ],
 "partnerdatas":["https://raw.githubusercontent.com/Fgergo20/unionnight/main/fortnitecustom.json", 
-                "https://raw.githubusercontent.com/guralynoel/NebroYT/main/CGCnebroyt%20(1).json", 
+                "https://raw.githubusercontent.com/guralynoel/NebroYT/main/CGCnebroyt%20(1).json",
+                
+                "Curl", 
+                "Durl",
+                "Eurl",
+                "Furl",
+                
+                "Curl", 
+                "Durl",
+                "Eurl",
+                "Furl",
+                
+                "Curl", 
+                "Durl",
+                "Eurl",
+                "Furl",
+                
                 "Curl", 
                 "Durl",
                 "Eurl",
                 "Furl"
                ],
- "partnercolor":["3", "1", "2", "3", "3", "3"]
+ "partnercolor":["3", "1", "2", "3",
+                 "0", "0", "0", "0",
+                 "0", "0", "0", "0",
+                 "0", "0", "0", "0",
+                 "0", "0",
+                ]
 }
