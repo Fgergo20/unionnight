@@ -2,10 +2,10 @@
   
  "code": "no code", 
  "time": 2, 
- "active": 0,
- "gamename": "no game",
- "matchname": "no match",
- "mode": "no mode",
+ "active": 1,
+ "gamename": "Fortnite",
+ "matchname": "no match name",
+ "mode": "solo",
  "ad": "ca-app-pub-8835434778787447/3299206281",
  "appad": "ca-app-pub-8835434778787447~5556229188"
 }
