@@ -2,8 +2,8 @@
 "partnercount":18,
 "partnernames":["MC NIGHT CHANNEL", 
                 "NebroYT", 
-                "no partner",
-                "no partner",
+                "Nexist",
+                "ZaNe",
                 "no partner",
                 "no partner",
                 
@@ -25,7 +25,7 @@
 "partnerdatas":["https://raw.githubusercontent.com/Fgergo20/unionnight/main/fortnitecustom.json", 
                 "https://raw.githubusercontent.com/guralynoel/NebroYT/main/CGCnebroyt%20(1).json",
                 
-                "Curl", 
+                "https://raw.githubusercontent.com/nexist24/CGCPARTNER/main/nexist.json", 
                 "Durl",
                 "Eurl",
                 "Furl",
@@ -45,7 +45,7 @@
                 "Eurl",
                 "Furl"
                ],
- "partnercolor":["3", "1", "0", "0",
+ "partnercolor":["3", "1", "2", "2",
                  "0", "0", "0", "0",
                  "0", "0", "0", "0",
                  "0", "0", "0", "0",
