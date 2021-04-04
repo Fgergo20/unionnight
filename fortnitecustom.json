@@ -1,11 +1,11 @@
 { 
   
- "code": "17135", 
+ "code": "", 
  "time": 2, 
- "active": 1,
- "gamename": "MINECRAFT",
+ "active": 0,
+ "gamename": "no game",
  "matchname": "no name",
- "mode": "smp",
+ "mode": "no mode",
  "ad": "ca-app-pub-8835434778787447/3299206281",
  "appad": "ca-app-pub-8835434778787447~5556229188"
 }
