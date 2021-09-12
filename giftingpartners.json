@@ -2,9 +2,9 @@
 "partnernames":["Partner", 
                 "Partner1", 
                 "Partner2",
-                "Partner3"]
- "partnersid":["Partner", 
-                "Partner1", 
-                "Partner2",
-                "Partner3"]
+                "Partner3"],
+ "partnersid":["abc1", 
+                "abc2", 
+                "abc3",
+                "abc4"]
 }
